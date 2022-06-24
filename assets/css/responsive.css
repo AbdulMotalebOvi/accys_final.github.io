@@ -69,5 +69,8 @@
     text-align: center;
     margin-top: 51px;
   }
+ a.btn.btn-3 {
+    margin-left: 9px;
+}
   
 }
